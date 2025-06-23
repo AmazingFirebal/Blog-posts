@@ -1,9 +1,8 @@
 {
   "title": "Magazine Title",
-  "cover": "URL_to_cover_image",
+  "cover": "1.png",
   "pages": [
     "URL_to_page_1_image",
     "URL_to_page_2_image",
-    ...
   ]
 }
