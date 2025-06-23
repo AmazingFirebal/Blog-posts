@@ -1,3 +1,9 @@
-<title: test 1>
-<sub-heading: test 2>
-<content: blah blah blah>
+{
+  "title": "Magazine Title",
+  "cover": "URL_to_cover_image",
+  "pages": [
+    "URL_to_page_1_image",
+    "URL_to_page_2_image",
+    ...
+  ]
+}
