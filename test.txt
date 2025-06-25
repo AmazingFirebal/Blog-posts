@@ -1,8 +1,14 @@
-{
-  "title": "Magazine Title",
-  "cover": "1.png",
-  "pages": [
-    "URL_to_page_1_image",
-    "URL_to_page_2_image",
-  ]
-}
+Welcome to Paul's Blog!
+
+This is a test article. It has text, and it has images too.
+
+[[image:https://i.imgur.com/zT1t88E.png]]
+
+This image should appear between paragraphs.
+
+Here's another one:
+
+[[image:https://i.imgur.com/IUXetBZ.png]]
+
+And more text after that!
+
