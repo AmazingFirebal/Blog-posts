@@ -4,6 +4,6 @@ so i said fuck it and dropped all my money on a new laptop (should’ve gone des
 used that for a while but then started upgrading everything else—got a new mouse, keyboard, monitor, mic, everything.
 when I was doing a work placement (with the most amazing computer technician I’ve met he will forever be my role model) last year, I got given an old computer that the guy was going to throw away, that’s when I knew it was the time to finally get a pretty desktop my pretty desktop
 the case? janky and weird-looking by normal standards, but it was beautiful. I’ve always liked old stuff other people see as junk.
-[[case1.png]]
+[[image:case1.png]]
 it had 16gb ddr4 (single channel lmao), some pentium chip, and a pretty decent LGA1200 board. bit out of date but still solid—back when intel still cared about making processors.
 so i ordered a better cpu and cooler (the old one made this terrible noise and I wanted to have lights so I could be like all the cucks with rgb this and that) and a rx6600 (perfect for me and no one else I don’t play or appreciate modern AAA games the only semi recent performance intensive thing I play is satisfactory and some odd VR(the 6600 is a vr budget BEAST)) 
